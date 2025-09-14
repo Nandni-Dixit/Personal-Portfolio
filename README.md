@@ -1,13 +1,15 @@
-# React + Vite
+This is a personal portfolio website built with React and Bootstrap to showcase my projects, skills, and contact information. The website is fully responsive, ensuring a smooth experience across devices, and includes sections like About Me, Projects, and Contact.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key features:
 
-Currently, two official plugins are available:
+Interactive UI: Modern, clean design with smooth animations using Animate.css and react-on-screen.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Showcase: Display projects with images, descriptions, and live links.
 
-## Expanding the ESLint configuration
+Contact Form: Fully functional Contact form integrated with EmailJS, allowing visitors to send messages directly to my inbox.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Design: Mobile-first approach using React-Bootstrap grid system, ensuring accessibility on all screen sizes.
 
+Deployed Live: Hosted on Vercel, accessible anywhere with a live link.
+
+This website demonstrates frontend development skills, responsive design, and integration with third-party services (EmailJS) to build a professional online presence.
